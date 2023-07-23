@@ -1,0 +1,172 @@
+.home a{
+    color: #5FB4A2;
+}
+
+main{
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 630px;
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.main-back{
+    display: flex;
+    flex-direction: column;
+    height: 375px;
+    width: 470px;
+    background-color: white;
+
+}
+
+.apresentacao{
+    display: flex;
+    width:470px;
+    height: 380px;
+    margin-right: 60px;
+    padding: 15px 30px 15px 30px;
+
+    justify-content: center;
+    align-items: center;
+
+    font-family: "Ibarra Real Nova", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.bt-main{
+    width: 200px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+
+    background-color: #203A4C;
+    text-decoration: none;
+}
+
+.bt-main span{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    color: rgb(255, 255, 255);
+    font-weight: 400px;
+    text-decoration: none;
+    font-family: "Public Sans", sans-serif; 
+    margin-left: 30px;
+}
+
+.bt-main img{
+    background-color: #1d3445;
+    padding: 15px;
+}
+
+
+.bt-main a{
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.txt-about{
+    display: flex;
+    padding-right: 39px;
+    border: none;
+    box-shadow: none;
+}
+
+
+
+.about-me{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 140px;    
+
+}
+
+.imagem-about img {
+    display: flex;
+    max-width: 530px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.container-about{
+    height: 588px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-top: 1px solid #dddcde;
+    border-bottom: 1px solid #dddcde;
+}
+
+.sobre-mim{
+    font-family: "Ibarra Real Nova", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.pr-about{
+    width: 440px;
+    margin-top: 28px;
+    
+    font-family: "Public Sans", sans-serif;    
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.bt-int, .bt-portf{
+    width: 204px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 118px;
+
+    background-color: white;
+    border: 1px solid #33323D;
+    text-decoration: none;
+    font-family: "Public Sans", sans-serif;    
+    font-size: 14px;
+    line-height: 14.1px;
+}
+
+.bt-portf{
+    margin-top: 24px;
+}
+
+.pre-footer{
+    margin: 150px 165px 150px 165px;
+    display: flex;
+
+    text-decoration: none;
+    color: #33323D;
+}
+
+.int-job{
+    width: 1189.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.interesse{
+    height: 84px;
+    width: 450px;
+
+    font-family: "Ibarra Real Nova", sans-serif;
+    font-size: 40px;
+    font-weight: 700px;
+    line-height: 42px;
+}

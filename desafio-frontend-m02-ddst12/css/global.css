@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+header, main, article{
+    margin: 20px 165px 35px 165px;
+    width: 1189.2px;
+
+    color: #33323D;
+}
+
+/* **** HEADER **** */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+
+    font-family: "Public Sans", sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista-nav{
+    display: flex;
+    flex-direction: row;
+    gap: 43px;
+
+    font-size: 12px;
+    list-style: none;
+    font-weight: 400;
+}
+.lista-nav a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: inherit;
+}
+
+/* **** PRÉ FOOTER **** */
+
+
+.pre-footer{
+    margin: 150px 165px 150px 165px;
+    display: flex;
+
+    text-decoration: none;
+    color: #33323D;
+}
+
+.int-job{
+    width: 1189.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.interesse{
+    height: 84px;
+    width: 450px;
+
+    font-family: "Ibarra Real Nova", sans-serif;
+    font-size: 40px;
+    font-weight: 700px;
+    line-height: 42px;
+}
+
+.bt-int{
+    width: 204px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 118px;
+
+    background-color: white;
+    border: 1px solid #33323D;
+    text-decoration: none;
+    font-family: "Public Sans", sans-serif;    
+    font-size: 14px;
+    line-height: 14.1px;
+}
+
+
+/* **** FOOTER **** */
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    font-family: "Public Sans", sans-serif;
+
+    background-color: #33323d;
+}
+
+.logo-nav-footer{
+    display: flex;
+    flex-direction: row;
+    gap: 43px;
+
+    margin-left: 165px;
+}
+
+.alinhamento-nav-footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 165px;
+    height: 80px;
+    width: 100%;
+    gap: 48px;
+
+    color: white;
+
+    font-size: 12px;
+    list-style: none;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.alinhamento-nav-footer li a{
+    text-decoration: none;
+}
+
+.alinhamento-icones{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 165px;
+    height: 80px;
+    width: 100%;
+    gap: 15px;
+
+    font-size: 12px;
+    list-style: none;
+    font-weight: 400;
+    text-decoration: none;
+}
