@@ -10,7 +10,8 @@ Header: ![image](https://github.com/Gasa710/Desafio-do-modulo-02-DDS/assets/1133
 Footer: ![image](https://github.com/Gasa710/Desafio-do-modulo-02-DDS/assets/113395191/c4c3bcdb-f363-449a-b3b2-44ebeddb9715)
 
 E nas botôes na Main: 
-![image](https://github.com/Gasa710/Desafio-do-modulo-02-DDS/assets/113395191/72c2651f-110b-4831-a1cb-99f3472ec7d9)
+![image](https://github.com/Gasa710/Desafio-do-modulo-02-DDS/assets/113395191/20577b80-c389-43db-a6b4-4888f199a3fd)
+
 
 
 
